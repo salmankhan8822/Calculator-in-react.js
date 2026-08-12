@@ -5,10 +5,7 @@ A clean and responsive calculator application built with **React.js**. This proj
 The calculator provides basic arithmetic operations with a simple and user-friendly interface.
 
 ## 🚀 Live Demo
-
-
-
-
+https://calculator-build-with-react.vercel.app/
 
 ## ✨ Features
 
